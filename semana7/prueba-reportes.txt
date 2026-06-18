@@ -1,0 +1,7 @@
+Al realizar una petición POST a la ruta /reportes se registra un nuevo reporte en memoria.
+
+Cuando se consulta la ruta GET /reportes, el servidor devuelve la lista completa de reportes registrados.
+
+Cada reporte contiene un identificador, un tipo y una descripción.
+
+La información permanece disponible mientras el servidor esté en ejecución.
