@@ -1,0 +1,7 @@
+Evento: Se registra un nuevo reporte en el sistema.
+
+Acción: n8n envía una notificación a Telegram.
+
+Mensaje: "Nuevo reporte recibido. Revisar el sistema."
+
+No deben enviarse nombres completos, documentos de identidad, direcciones, teléfonos, contraseñas ni información sensible.
